@@ -1,2 +1,2 @@
 # VexU
-RU VexU T-VEX
+Rutgers VexU T-VEX
